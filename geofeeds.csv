@@ -60,3 +60,8 @@
 206.14.129.48/28,US,US-CA,Sacramento,
 213.198.104.0/22,FR,FR-75C,Paris,
 204.2.88.0/21,PR,,San Juan,
+157.238.229.0/29,DE,DE-HE,Frankfurt,
+157.238.229.8/29,FR,,Marseille,
+157.238.229.16/29,FR,,Paris,
+157.238.229.24/29,NL,NL-NH,Amsterdam,
+157.238.229.32/29,GB,GB-LND,London,
