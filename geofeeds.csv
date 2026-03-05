@@ -70,7 +70,7 @@
 213.198.27.0/24,FR,FR-75C,Paris,
 192.67.236.0/22,AU,AU-NSW,Sydney,
 81.25.202.128/25,IT,IT-25,Milan,
-206.54.0.0/20,HK,,Hong Kong,
+206.54.0.0/20,HK,,,
 206.54.16.0/20,JP,JP-13,Tokyo,
 206.54.32.0/20,SG,,Singapore,
 83.231.214.0/24,DE,DE-HE,Frankfurt,
