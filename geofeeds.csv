@@ -745,6 +745,7 @@
 204.27.70.0/24,NL,NL-NH,Amsterdam,
 204.27.71.0/24,GB,GB-LND,London,
 204.27.72.0/27,DE,DE-HE,Frankfurt,
+204.27.72.64/27,DE,DE-HE,Frankfurt,
 204.27.72.32/27,DE,DE-BE,Berlin,
 204.27.73.0/24,GB,GB-LND,London,
 204.27.74.0/24,IT,IT-MI,Milan,
