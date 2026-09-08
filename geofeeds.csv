@@ -823,7 +823,7 @@
 206.163.22.0/24,US,US-VA,Ashburn,
 206.163.23.0/24,US,US-TX,Houston,
 206.163.24.0/24,US,US-LA,New Orleans,
-206.163.25.0/2,US,US-MN,Minneapolis,
+206.163.25.0/20,US,US-MN,Minneapolis,
 206.163.26.0/24,US,US-NV,Las Vegas,
 206.163.27.0/24,US,US-NY,New York,
 206.163.28.0/24,US,US-DC,Washington,
