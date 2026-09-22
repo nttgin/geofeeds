@@ -841,9 +841,15 @@
 206.163.27.0/24,US,US-NY,New York,
 206.163.28.0/24,US,US-CA,Los Angeles,
 206.163.29.0/24,US,US-WA,Seattle,
-206.166.136.0/22,US,US-VA,Ashburn,
+206.166.136.0/24,US,US-VA,Ashburn
+206.166.137.0/24,US,US-VA,Ashburn
+206.166.138.0/24,US,US-VA,Ashburn
+206.166.139.0/24,US,US-VA,Ashburn
 206.184.20.0/22,US,US-CO,Englewood,
-206.239.0.0/22,US,US-MD,Baltimore,
+206.239.0.0/24,US,US-MD,Baltimore
+206.239.1.0/24,US,US-MD,Baltimore
+206.239.2.0/24,US,US-MD,Baltimore
+206.239.3.0/24,US,US-MD,Baltimore
 207.21.124.0/24,US,US-CA,Los Angeles,
 207.21.125.0/24,US,US-CA,Los Angeles,
 207.21.126.0/24,US,US-CA,Los Angeles,
@@ -863,7 +869,10 @@
 207.57.32.0/19,US,US-CA,Los Angeles,
 207.57.64.0/20,US,US-CA,Los Angeles,
 207.58.0.0/17,JP,JP-13,Tokyo,
-207.67.144.0/22,US,US-NJ,Jersey City,
+207.67.144.0/24,US,US-NJ,Jersey City,
+207.67.145.0/24,US,US-NJ,Jersey City,
+207.67.146.0/24,US,US-NJ,Jersey City,
+207.67.147.0/24,US,US-NJ,Jersey City,
 207.67.148.0/22,US,US-CO,Denver,80202
 207.71.80.0/22,US,US-TX,Houston,
 207.91.100.0/22,US,US-IL,Chicago,
@@ -881,7 +890,6 @@
 207.152.100.0/23,US,US-IL,Chicago,
 207.152.104.0/22,US,US-AZ,Phoenix,
 207.152.108.0/23,US,US-IL,Chicago,
-207.198.132.0/22,US,US-NY,Rochester,
 207.241.24.0/22,US,US-VA,Leesburg,
 207.241.84.0/22,US,US-PA,Philadelphia,
 207.241.88.0/22,US,US-OR,Portland,
