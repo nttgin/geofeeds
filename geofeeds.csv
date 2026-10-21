@@ -89,6 +89,7 @@
 128.242.85.0/24,US,US-CA,Los Angeles,
 128.242.86.0/24,US,US-CA,Los Angeles,
 128.242.87.0/24,US,US-CA,Los Angeles,
+128.242.88.0/22,US,US-NY,New York,
 128.242.92.0/23,US,US-CA,Los Angeles,90022
 128.242.95.0/24,SG,,Singapore,
 128.242.96.0/21,US,US-CA,Los Angeles,
@@ -799,11 +800,13 @@
 204.143.53.0/24,US,US-CA,Los Angeles,
 204.143.54.0/24,US,US-CA,Los Angeles,
 204.143.55.0/24,US,US-CA,Los Angeles,
+204.143.62.0/23,US,US-CA,San Francisco,
 204.143.72.0/21,US,US-NY,New York,
 204.143.92.0/24,US,US-CA,Los Angeles,
 204.143.93.0/24,US,US-CA,Los Angeles,
 204.143.94.0/24,US,US-CA,Los Angeles,
 204.143.95.0/24,US,US-CA,Los Angeles,
+204.170.32.0/23,US,US-CA,Los Angeles,
 204.170.40.0/21,US,US-CA,Los Angeles,90022
 204.170.40.0/24,US,US-CA,Los Angeles,
 204.170.41.0/24,US,US-CA,Los Angeles,
@@ -815,6 +818,7 @@
 204.170.47.0/24,US,US-CA,Los Angeles,
 204.170.216.0/21,US,US-CA,Los Angeles,
 204.171.48.0/21,US,US-VA,Ashburn,
+204.171.62.0/23,US,US-CA,Los Angeles,
 204.201.168.0/21,US,US-NJ,Newark,
 204.245.136.0/21,US,US-IL,Chicago,
 204.245.207.48/28,US,US-CO,Denver,80202
