@@ -526,6 +526,7 @@
 198.87.106.0/24,US,US-CA,Los Angeles,
 198.87.107.0/24,US,US-CA,Los Angeles,
 198.87.112.0/20,GB,GB-LND,London,
+198.87.160.0/20,US,US-CA,Los Angeles,
 198.87.176.0/24,US,US-CA,Los Angeles,
 198.87.177.0/24,US,US-CA,Los Angeles,
 198.87.178.0/24,US,US-CA,Los Angeles,
@@ -540,6 +541,7 @@
 198.104.208.0/20,US,US-UT,Salt Lake City,
 198.107.141.0/24,CA,CA-ON,Toronto,
 198.107.144.0/20,US,US-UT,Salt Lake City,
+198.107.208.0/20,US,US-CA,Los Angeles,
 198.138.42.0/23,US,US-CA,Los Angeles,90022
 198.138.48.0/20,US,US-VA,Ashburn,
 198.138.70.0/23,US,US-CA,Los Angeles,90022
@@ -556,6 +558,7 @@
 198.173.8.0/23,US,US-CA,Los Angeles,90022
 198.173.162.0/23,MX,MX-CMX,Ciudad de México,
 199.4.96.0/21,US,US-NY,New York,
+199.4.112.0/20,US,US-IL,Chicago,
 199.217.128.0/17,JP,JP-13,Tokyo,
 199.224.12.0/24,US,US-CO,Colorado,
 199.234.72.0/21,US,US-CA,Los Angeles,90022
@@ -747,6 +750,7 @@
 204.27.88.224/28,NL,NL-NH,Amsterdam,
 204.27.116.0/22,NL,NL-NH,Amsterdam,
 204.27.120.0/21,NL,NL-NH,Amsterdam,
+204.42.0.0/20,US,US-IL,Chicago,
 204.42.96.0/21,US,US-CA,Los Angeles,90022
 204.42.96.0/24,US,US-CA,Los Angeles,
 204.42.97.0/24,US,US-CA,Los Angeles,
@@ -847,6 +851,7 @@
 204.170.45.0/24,US,US-CA,Los Angeles,
 204.170.46.0/24,US,US-CA,Los Angeles,
 204.170.47.0/24,US,US-CA,Los Angeles,
+204.170.48.0/20,US,US-VA,Ashburn,
 204.170.216.0/21,US,US-CA,Los Angeles,
 204.171.48.0/21,US,US-VA,Ashburn,
 204.171.62.0/23,US,US-CA,Los Angeles,
@@ -1047,6 +1052,8 @@
 207.91.104.0/21,GB,GB-LND,London,
 207.111.64.0/21,US,US-VA,Ashburn,
 207.111.72.0/22,US,US-DC,Washington D.C.,
+207.111.80.0/20,US,US-VA,Ashburn,
+207.137.16.0/20,US,US-VA,Ashburn,
 207.137.72.0/24,US,US-CA,San Diego,
 207.137.73.0/24,US,US-CA,San Diego,
 207.137.74.0/24,US,US-CA,San Diego,
