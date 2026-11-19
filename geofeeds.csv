@@ -49,7 +49,6 @@
 128.121.47.0/24,US,US-CA,San Jose,
 128.241.0.128/29,US,US-CA,,
 128.241.1.20/30,JP,JP-13,Tokyo,
-128.241.11.225/30,US,US-VA,Ashburn,
 128.241.17.0/24,US,US-NY,New York,
 128.241.18.0/23,US,US-CA,Los Angeles,
 128.241.22.0/23,US,US-CA,Los Angeles,90022
@@ -272,7 +271,7 @@
 165.254.37.0/24,US,US-CA,Los Angeles,
 165.254.38.0/24,US,US-CA,Los Angeles,
 165.254.39.0/24,US,US-CA,Los Angeles,
-165.254.42.200/29,US,US-VA,, 
+165.254.42.200/29,US,US-VA,,
 165.254.47.0/24,US,US-DC,Washington D.C.,
 165.254.48.0/24,US,US-DC,Washington D.C.,
 165.254.49.0/24,US,US-DC,Washington D.C.,
@@ -347,7 +346,7 @@
 165.254.249.0/24,US,US-NY,New York,
 165.254.250.0/24,US,US-NY,New York,
 165.254.251.0/24,US,US-NY,New York,
-165.254.252.23,US,US-CA,Los Angeles,90022
+165.254.252.0/23,US,US-CA,Los Angeles,90022
 165.254.254.0/24,US,US-NY,New York,
 168.143.64.0/22,ID,ID-JK,Jakarta Barat,
 168.143.72.0/24,US,US-CA,Los Angeles,
@@ -543,13 +542,13 @@
 198.87.192.0/20,MX,MX-CHP,Querétaro,
 198.88.96.0/20,BR,BR-SP,Sao Paulo,
 198.88.112.0/24,US,US-DC,Washington D.C.,
- 198.88.113.0/24,US,US-DC,Washington D.C.,
- 198.88.114.0/24,US,US-DC,Washington D.C.,
- 198.88.115.0/24,US,US-DC,Washington D.C.,
- 198.88.116.0/24,US,US-TX,Dallas,
- 198.88.117.0/24,US,US-TX,Dallas,
- 198.88.118.0/24,US,US-TX,Dallas,
- 198.88.119.0/24,US,US-TX,Dallas,
+198.88.113.0/24,US,US-DC,Washington D.C.,
+198.88.114.0/24,US,US-DC,Washington D.C.,
+198.88.115.0/24,US,US-DC,Washington D.C.,
+198.88.116.0/24,US,US-TX,Dallas,
+198.88.117.0/24,US,US-TX,Dallas,
+198.88.118.0/24,US,US-TX,Dallas,
+198.88.119.0/24,US,US-TX,Dallas,
 198.88.122.0/23,US,US-CA,Los Angeles,
 198.88.192.0/20,ID,ID-JK,Jakarta Barat,
 198.88.208.0/21,US,US-CA,Los Angeles,
@@ -560,9 +559,9 @@
 198.104.208.0/20,US,US-UT,Salt Lake City,
 198.107.128.0/21,JP,JP-13,Tokyo,
 198.107.136.0/24,US,US-LA,New Orleans,
- 198.107.137.0/24,US,US-LA,New Orleans,
- 198.107.138.0/24,US,US-LA,New Orleans,
- 198.107.139.0/24,US,US-GA,Atlanta,
+198.107.137.0/24,US,US-LA,New Orleans,
+198.107.138.0/24,US,US-LA,New Orleans,
+198.107.139.0/24,US,US-GA,Atlanta,
 198.107.141.0/24,CA,CA-ON,Toronto,
 198.107.144.0/20,US,US-UT,Salt Lake City,
 198.107.208.0/20,US,US-CA,Los Angeles,
@@ -570,7 +569,7 @@
 198.138.48.0/20,US,US-VA,Ashburn,
 198.138.70.0/23,US,US-CA,Los Angeles,90022
 198.138.72.0/21,MY,MY-14,Kuala Lumpur,
-198.138.80.0/24,US,US-NY, New York,
+198.138.80.0/24,US,US-NY,New York,
 198.139.144.0/24,US,US-NJ,Jersey City,
  198.139.145.0/24,US,US-NJ,Jersey City,
  198.139.146.0/24,US,US-NJ,Jersey City,
@@ -936,7 +935,7 @@
  204.247.52.0/24,US,US-UT,Salt Lake City,
  204.247.53.0/24,US,US-UT,Salt Lake City,
  204.247.54.0/24,US,US-UT,Salt Lake City,
- 204.247.55.0/24,US,US-MN,Minneapolis, 
+204.247.55.0/24,US,US-MN,Minneapolis, 
 205.146.0.0/16,JP,JP-13,Tokyo,
 205.157.128.0/21,US,US-DC,Washington D.C.,
 205.157.140.0/24,US,US-GA,Atlanta,
