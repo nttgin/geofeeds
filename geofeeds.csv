@@ -618,8 +618,8 @@
 199.224.2.0/23,US,US-VA,Ashburn,
 199.224.4.0/24,US,US-CA,Los Angeles,
 199.224.5.0/24,US,US-CA,Los Angeles,
- 199.224.6.0/24,US,US-CA,Los Angeles,
- 199.224.7.0/24,US,US-CA,Los Angeles,
+199.224.6.0/24,US,US-CA,Los Angeles,
+199.224.7.0/24,US,US-CA,Los Angeles,
 199.224.12.0/24,US,US-VA,Ashburn,
 199.234.72.0/21,US,US-CA,Los Angeles,90022
 199.234.72.0/24,US,US-CA,Los Angeles,
@@ -919,8 +919,8 @@
 204.203.80.0/21,KR,KR-11,Seoul,
 204.203.100.0/24,US,US-CA,San Diego,
 204.203.101.0/24,US,US-CA,San Diego,
- 204.203.102.0/24,US,US-CA,San Diego,
- 204.203.103.0/24,US,US-CA,Los Angeles,
+204.203.102.0/24,US,US-CA,San Diego,
+204.203.103.0/24,US,US-CA,Los Angeles,
 204.233.240.0/23,TH,TH-10,,
 204.245.136.0/21,US,US-IL,Chicago,
 204.245.204.0/23,US,US-AZ,Phoenix,
@@ -930,18 +930,18 @@
 204.245.207.128/28,GB,GB-LND,London,
 204.247.48.0/24,US,US-CA,San Francisco,
 204.247.49.0/24,US,US-CA,San Francisco,
- 204.247.50.0/24,US,US-CA,San Francisco,
- 204.247.51.0/24,US,US-CA,San Francisco,
- 204.247.52.0/24,US,US-UT,Salt Lake City,
- 204.247.53.0/24,US,US-UT,Salt Lake City,
- 204.247.54.0/24,US,US-UT,Salt Lake City,
+204.247.50.0/24,US,US-CA,San Francisco,
+204.247.51.0/24,US,US-CA,San Francisco,
+204.247.52.0/24,US,US-UT,Salt Lake City,
+204.247.53.0/24,US,US-UT,Salt Lake City,
+204.247.54.0/24,US,US-UT,Salt Lake City,
 204.247.55.0/24,US,US-MN,Minneapolis,
 205.146.0.0/16,JP,JP-13,Tokyo,
 205.157.128.0/21,US,US-DC,Washington D.C.,
 205.157.140.0/24,US,US-GA,Atlanta,
- 205.157.141.0/24,US,US-GA,Atlanta,
- 205.157.142.0/24,US,US-GA,Atlanta,
- 205.157.143.0/24,US,US-CA,San Diego,
+205.157.141.0/24,US,US-GA,Atlanta,
+205.157.142.0/24,US,US-GA,Atlanta,
+205.157.143.0/24,US,US-CA,San Diego,
 205.212.0.0/16,HK,,,
 205.238.0.0/20,US,US-CA,Los Angeles,90022
 205.238.0.0/24,US,US-CA,Los Angeles,
@@ -995,12 +995,12 @@
 205.238.63.0/24,US,US-CA,Los Angeles,
 206.14.112.0/24,US,US-OR,Portland,
 206.14.113.0/24,US,US-OR,Portland,
- 206.14.114.0/24,US,US-OR,Portland,
- 206.14.115.0/24,US,US-OR,Portland,
- 206.14.116.0/24,US,US-AZ,Phoenix,
- 206.14.117.0/24,US,US-AZ,Phoenix,
- 206.14.118.0/24,US,US-AZ,Phoenix,
- 206.14.119.0/24,US,US-AZ,Phoenix,
+206.14.114.0/24,US,US-OR,Portland,
+206.14.115.0/24,US,US-OR,Portland,
+206.14.116.0/24,US,US-AZ,Phoenix,
+206.14.117.0/24,US,US-AZ,Phoenix,
+206.14.118.0/24,US,US-AZ,Phoenix,
+206.14.119.0/24,US,US-AZ,Phoenix,
 206.14.120.0/24,US,US-CA,Los Angeles,
 206.14.121.0/24,US,US-CA,Los Angeles,
 206.14.122.0/24,US,US-CA,Los Angeles,
