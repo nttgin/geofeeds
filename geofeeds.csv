@@ -542,10 +542,10 @@
 198.87.184.0/22,US,US-CA,Los Angeles,
 198.87.192.0/20,MX,MX-CHP,Querétaro,
 198.88.96.0/20,BR,BR-SP,Sao Paulo,
-198.88.112.0/24,US,DC,Washington,
- 198.88.113.0/24,US,US-DC,Washington,
- 198.88.114.0/24,US,US-DC,Washington,
- 198.88.115.0/24,US,US-DC,Washington,
+198.88.112.0/24,US,US-DC,Washington D.C.,
+ 198.88.113.0/24,US,US-DC,Washington D.C.,
+ 198.88.114.0/24,US,US-DC,Washington D.C.,
+ 198.88.115.0/24,US,US-DC,Washington D.C.,
  198.88.116.0/24,US,US-TX,Dallas,
  198.88.117.0/24,US,US-TX,Dallas,
  198.88.118.0/24,US,US-TX,Dallas,
