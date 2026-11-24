@@ -626,6 +626,8 @@
 198.173.8.0/23,US,US-CA,Los Angeles,90022
 198.173.12.0/22,MY,MY-14,Kuala Lumpur,
 198.173.162.0/23,MX,MX-CMX,Ciudad de México,
+198.247.0.0/18,US,US-CA,San Jose,
+198.247.64.0/18,US,US-CA,San Jose,
 199.4.96.0/21,US,US-NY,New York,
 199.4.108.0/23,US,US-NV,Las Vegas,
 199.4.112.0/20,US,US-IL,Chicago,
@@ -931,6 +933,7 @@
 204.171.48.0/21,US,US-VA,Ashburn,
 204.171.62.0/23,US,US-PA,Philadelphia,
 204.201.168.0/21,US,US-NJ,Newark,
+204.202.0.0/18,US,US-CA,San Jose,
 204.203.80.0/21,KR,KR-11,Seoul,
 204.203.100.0/24,US,US-CA,San Diego,
 204.203.101.0/24,US,US-CA,San Diego,
